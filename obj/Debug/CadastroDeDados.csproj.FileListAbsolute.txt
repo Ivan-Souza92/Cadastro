@@ -1,0 +1,11 @@
+C:\Users\Ivan\source\repos\CadastroDeDados\bin\Debug\CadastroDeDados.exe.config
+C:\Users\Ivan\source\repos\CadastroDeDados\bin\Debug\CadastroDeDados.exe
+C:\Users\Ivan\source\repos\CadastroDeDados\bin\Debug\CadastroDeDados.pdb
+C:\Users\Ivan\source\repos\CadastroDeDados\obj\Debug\CadastroDeDados.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\CadastroDeDados\obj\Debug\CadastroDeDados.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\CadastroDeDados\obj\Debug\CadastroDeDados.Properties.Resources.resources
+C:\Users\Ivan\source\repos\CadastroDeDados\obj\Debug\CadastroDeDados.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\CadastroDeDados\obj\Debug\CadastroDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\CadastroDeDados\obj\Debug\CadastroDeDados.exe
+C:\Users\Ivan\source\repos\CadastroDeDados\obj\Debug\CadastroDeDados.pdb
+C:\Users\Ivan\source\repos\CadastroDeDados\obj\Debug\CadastroDeDados.Form1.resources
